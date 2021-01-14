@@ -12,10 +12,12 @@ Client posiada własny interfejs graficzny i nie wymaga uruchamiania przez cmd
 Program obsługuje na obecną chwilę jedynie pliki muzyczne w formacie .wav
 powinny być one umieszczone w folderze "Music" obok pliku wykonywalnego Server:
 
+```
 .
 ├── Server.exe
 └── Music
     └── file.wav
+```
 
 Odtwarzacz jest ubogi w funkcjonalności, jedynymi opcjami zawartymi w nim są wybór utworu oraz odtworzenie (bez możliwości zatrzymania utworu)
 Muzyka może okazać się głośna dlatego polecam odtwarzać muzykę na ściszonych słuchawkach.
